@@ -1,7 +1,6 @@
 # 开发者：
 `郭锦发`
-# 线上地址：
-`http://asserts.xcarimg.com/resource/common/validate/validate.js`
+
 
 # 说明：
   validate校验
